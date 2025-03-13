@@ -1,0 +1,14 @@
+                       precision    recall  f1-score   support
+
+ air_conditioner_test       0.98      1.00      0.99        50
+children_playing_test       0.90      0.88      0.89        50
+        dog_bark_test       0.96      0.92      0.94        50
+        drilling_test       0.96      0.98      0.97        50
+   engine_idling_test       1.00      1.00      1.00        50
+      jackhammer_test       0.98      0.98      0.98        50
+           siren_test       0.98      0.96      0.97        50
+    street_music_test       0.87      0.90      0.88        50
+
+             accuracy                           0.95       400
+            macro avg       0.95      0.95      0.95       400
+         weighted avg       0.95      0.95      0.95       400
